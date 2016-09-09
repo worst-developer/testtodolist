@@ -1,3 +1,7 @@
+#Check the app
+
+https://yarossia.github.io/testtodolist/
+
 #Test
 
 Test work with export to csv using: React, Redux stack
@@ -6,4 +10,4 @@ Test work with export to csv using: React, Redux stack
 
  - Clone the repository
  - Open repository folder, run npm install
- - npm start, to run 
+ - npm start, to run
